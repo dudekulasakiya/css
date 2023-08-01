@@ -1,0 +1,48 @@
+/*#a123{
+   background-color:green;
+   font-family:serif;
+}*/
+/*p,span{
+   color:blue;
+   font-size:30px;
+}
+h5{
+   color:green;
+   font-size:50px;
+}
+*{
+   font-family:cursive;
+   margin:0px;
+   padding:0px;
+}
+input[type]{
+   color:blue;
+}
+input[type="text"]{
+   color:green;
+}
+input[type="number"]{
+   color:yellow;
+}
+a[href]{
+   background-color:orange;
+}
+img[src]{
+   margin:0px;
+   padding:0px;
+}*/
+/*a:link{
+   color:black;
+}
+a:visited{
+   color:red;
+}
+a:hover{
+   color:pink;
+}
+a:active{
+   color:yellow;
+}*/
+#home{
+   margin:0px;
+}
